@@ -1,4 +1,4 @@
-package org.hinxlau.xanaga.parser;
+package org.hinxlau.xanga.parser;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;

@@ -1,4 +1,4 @@
-package org.hinxlau.xanaga;
+package org.hinxlau.xanga;
 
 import org.apache.http.Consts;
 import org.apache.http.HttpResponse;

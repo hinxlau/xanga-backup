@@ -1,6 +1,6 @@
-package org.hinxlau.xanaga.task;
+package org.hinxlau.xanga.task;
 
-import org.hinxlau.xanaga.XangaHttpClient;
+import org.hinxlau.xanga.XangaHttpClient;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

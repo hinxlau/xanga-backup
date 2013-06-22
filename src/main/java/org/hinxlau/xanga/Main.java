@@ -1,13 +1,13 @@
-package org.hinxlau.xanaga;
+package org.hinxlau.xanga;
 
 import com.google.common.collect.Lists;
 import com.google.common.collect.Maps;
 import com.google.common.util.concurrent.*;
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.io.IOUtils;
-import org.hinxlau.xanaga.parser.ArchivesPageParser;
-import org.hinxlau.xanaga.parser.MonthPageParser;
-import org.hinxlau.xanaga.task.MonthPageDownloadCallable;
+import org.hinxlau.xanga.parser.ArchivesPageParser;
+import org.hinxlau.xanga.parser.MonthPageParser;
+import org.hinxlau.xanga.task.MonthPageDownloadCallable;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
